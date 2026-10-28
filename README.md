@@ -1,7 +1,7 @@
 # Hola, soy Pablo Hernán González 👋
 
 Estudiante del último cuatrimestre de la **Tecnicatura en Programación (UTN)**, de Tafí Viejo, Tucumán.
-Busco mi primera experiencia como **desarrollador junior o pasante**.
+Busco mi primera experiencia en un equipo de desarrollo como **desarrollador junior o pasante**.
 
 📫 hernangoonzalez@gmail.com · [LinkedIn](https://www.linkedin.com/in/pablo-hern%C3%A1n-gonz%C3%A1lez-036765431/)
 
