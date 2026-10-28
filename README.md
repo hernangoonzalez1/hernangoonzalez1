@@ -24,7 +24,18 @@ Sitio web y sistema de gestión interno de un comercio de materiales sanitarios,
 
 **Stack:** ASP.NET Core · Entity Framework Core · MySQL · VPS Linux
 
-> El código de estos dos proyectos es privado porque están en uso comercial. Si querés verlo, escribime y lo muestro en una entrevista.
+## Proyecto final de la tecnicatura (en equipo)
+
+### JusticIA Laboral
+Plataforma para abogados laboralistas de Tucumán, en desarrollo con dos compañeros.
+
+- Búsqueda de jurisprudencia con IA (RAG): se describe el caso en lenguaje común y devuelve los fallos más parecidos
+- Generador de citas a partir de los fallos que elige el abogado
+- Cálculo de indemnizaciones actualizadas por IPC y RIPTE según la fórmula de cada Sala
+
+**Stack:** React · Node.js · PostgreSQL + pgvector · API de OpenAI · Mercado Pago
+
+> El código de Gestionatup y PVC Tafí es privado porque están en uso comercial. Si querés verlo, escribime y lo muestro en una entrevista.
 
 ## Tecnologías
 
