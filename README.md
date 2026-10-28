@@ -3,7 +3,7 @@
 Estudiante del último cuatrimestre de la **Tecnicatura en Programación (UTN)**, de Tafí Viejo, Tucumán.
 Busco mi primera experiencia como **desarrollador junior o pasante**.
 
-📫 hernangoonzalez@gmail.com
+📫 hernangoonzalez@gmail.com · [LinkedIn](https://www.linkedin.com/in/pablo-hern%C3%A1n-gonz%C3%A1lez-036765431/)
 
 ## Proyectos en producción
 
